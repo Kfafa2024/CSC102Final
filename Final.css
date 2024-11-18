@@ -1,0 +1,27 @@
+body{
+    background-image: url("Notjustanumber.png");
+    /* Here I specified an image and had it cover the page without repitition */
+    background-size:cover;
+   background-repeat: no-repeat;
+     }
+     h1
+     {
+        /* This made my h1 have abackground and text color */
+        background-color: aqua;
+        color: blueviolet;
+     }
+     nav
+     {
+        /* Here I personalized my text color and font size */
+        color: antiquewhite;
+        font-size: smaller;
+        
+     }
+     thead
+     {
+        font-size: medium;
+        font-weight: 300;
+        background-color: lavender;
+        /* I adjusted my Table header to be one color and adjusted its size */
+
+     }

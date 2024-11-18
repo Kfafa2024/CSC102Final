@@ -1,0 +1,28 @@
+
+
+body
+{
+background-color: blueviolet;
+
+}
+p
+
+{
+color: aqua;
+}
+
+form
+{
+    position: top; 
+    color:pink
+}
+nav
+{
+    font-size: small;
+    position:relative;  bottom: left;
+}
+footer
+{
+    font-size: small;
+    position:absolute; 
+}
