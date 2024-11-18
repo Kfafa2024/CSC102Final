@@ -47,12 +47,17 @@ background-repeat: repeat;
 {
     font-size: small;
     position:relative;  bottom: left;
+      text-align: center;
+      color: purple;
+  
     
 }
 footer
 {
     font-size: smaller;
     position:absolute; 
+    
+  
     
 }
 
