@@ -34,8 +34,8 @@ button
 
 body{
  background-image: url("BC-awareness.jpeg");
- background-size: contain;
-background-repeat: repeat;
+ background-size: cover;
+background-repeat: no-repeat;
   }
 
   audio{
@@ -56,7 +56,7 @@ footer
 {
     font-size: smaller;
     position:absolute; 
-    
+
   
     
 }
