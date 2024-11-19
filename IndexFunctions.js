@@ -22,7 +22,7 @@ function intervalStart()
         change +=30; // change = change + 30; the change will move by 30 down and right each
 
 
-    },10000); // this adds in the delay by miliseconds until repeat //
+    },1000); // this adds in the delay by miliseconds until repeat //
 
 
 }
